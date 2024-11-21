@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
      <h2>Hello React I'm Parent</h2>
-     <Childcom/>
+     <Childcom setfun={setChildname} />
      <p>Parent: My child said: {childname}</p>
     </div>
   );
