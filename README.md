@@ -4,3 +4,4 @@ State Management: Using useState to the functional components to manage state. I
 Props: Passing data and functions between components.
 Callback Functions: Enabling the child component to send data back to the parent.
 Output:Open your browser and navigate to http://localhost:3000.
+![Screenshot (1118)](https://github.com/user-attachments/assets/f4ad53a2-deb5-41f5-bd5f-a33782a0f226)
